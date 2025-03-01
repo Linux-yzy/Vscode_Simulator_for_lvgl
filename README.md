@@ -1,0 +1,2 @@
+# Vscode_Simulator_for_lvgl
+windows下在vscode建立lvgl模拟平台
